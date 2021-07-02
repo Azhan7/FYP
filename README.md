@@ -12,7 +12,7 @@ To install the dependencies first open the GBSSL_FYP folder
 All of the dependecies will be installed automatically
 
 
-								                                                      "How to run SSL_Trails.py"
+								 "How to run SSL_Trails.py"
 
 To run the trials/experiments
 
@@ -21,7 +21,7 @@ To run the trials/experiments
 3) Move to examples
 4) There you'll see ssl_trials.py folder run that file to perform different experiments.
 
-								                                                "How to run trials on MNIST Dataset"
+								"How to run trials on MNIST Dataset"
                                                                 
                                                                 
 1) Open SSL_Trials.py file as described above
@@ -32,7 +32,7 @@ To run the trials/experiments
 
 
 
-								                                                    "How to add dataset"
+								"How to add dataset"
 
 1) Open GBSSL_FYP folder
 2) Move to Graph Learning folder
